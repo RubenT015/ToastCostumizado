@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastCostumizado</string>
+    <string name="textoBoton">Pulsame</string>
+    <string name="textoToast">Hola Caracola</string>
+</resources>
